@@ -1,5 +1,0 @@
-#!/bin/bash
-
-g++ -lsfml-graphics -lsfml-window -lsfml-system app.cpp ../game_files/board.cpp -o run
-./run
-rm run
