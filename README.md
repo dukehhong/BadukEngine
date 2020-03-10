@@ -11,7 +11,7 @@ make
 
 To run application:
 ```
-./baduk.exe
+./baduk.run
 ```
 ## Things to come:
 * Sound files
