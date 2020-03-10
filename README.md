@@ -19,6 +19,9 @@ To run application:
 * Hosting games on server
 * Browser support
 
+## Requirements
+Download/install SFML Library https://www.sfml-dev.org/tutorials/2.5/
+
 ## Dependancies
 SFML: https://www.sfml-dev.org
 
