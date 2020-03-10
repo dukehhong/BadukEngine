@@ -14,6 +14,7 @@ To run application:
 ./baduk.exe
 ```
 ## Things to come:
+* Sound files
 * Score Estimator
 * Hosting games on server
 * Browser support
