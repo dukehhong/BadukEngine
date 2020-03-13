@@ -22,6 +22,6 @@ To run application:
 ## Requirements
 Download/install SFML Library https://www.sfml-dev.org/tutorials/2.5/
 
-## Dependancies
+## Dependencies
 SFML: https://www.sfml-dev.org
 
