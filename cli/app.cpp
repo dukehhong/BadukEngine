@@ -7,7 +7,7 @@
 
 #define DIM 19
 #define boxsize 70
-#define margin 70
+#define margin 100
 
 //coordinate struct
 struct Pos{

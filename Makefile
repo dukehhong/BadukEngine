@@ -12,4 +12,4 @@ board.o: game_files/board.cpp game_files/board.h
 	g++ -c game_files/board.cpp -o bin/board.o
 
 clean:
-	rm -f bin/*.o main
+	rm -f bin/*.o baduk.run
